@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI',sans-serif;
+}
+.card{
+  width: fit-content;
+  border-radius: 32px;
+}
+.card-body{
+  padding: 0;
+}
+img{
+  width: 300px;
+  height: auto;
+  border-radius: 32px;
+}
+button{
+  border: none;
+  padding: 8px;
+  color: #ffffff;
+  background-color: #cf1b1b;
+}
